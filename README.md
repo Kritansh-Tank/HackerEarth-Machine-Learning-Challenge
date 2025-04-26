@@ -74,3 +74,5 @@ The solution uses machine learning models to predict carbon footprints:
 The model produces a R² score which measures how well the predictions explain the variation in carbon footprints. A score close to 1 indicates excellent predictive capability, while a score of 0 would indicate no predictive power beyond using the mean value.
 
 ## Output
+
+![Output](output/prediction_distribution.png)
