@@ -69,3 +69,7 @@ The model produces a R² score which measures how well the predictions explain t
 ## Output
 
 ![Output](output/prediction_distribution.png)
+
+## License
+
+MIT License - See LICENSE file for details
