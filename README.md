@@ -72,4 +72,4 @@ The model produces a R² score which measures how well the predictions explain t
 
 ## License
 
-MIT License - See LICENSE file for details
+Apache-2.0 License - See LICENSE file for details
