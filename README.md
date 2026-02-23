@@ -7,7 +7,7 @@ This project develops a machine learning model to estimate the monthly carbon fo
 Households are significant contributors to global carbon emissions, yet many people do not have a clear understanding of how their daily habits affect the environment. Traditional carbon footprint calculators often miss critical lifestyle factors. By using Machine Learning on household data, we can estimate carbon footprints more accurately, empowering individuals to make informed, climate-friendly choices.
 
 ## Dataset
-The dataset contains information about households, including:
+The dataset should contain information about households, including:
 - Energy consumption (electricity, natural gas)
 - Transportation patterns
 - Household characteristics (size, area)
@@ -44,13 +44,6 @@ The solution uses machine learning models to predict carbon footprints:
 - `carbon_footprint_model.py`: Implementation of the prediction model
 - `requirements.txt`: Required Python packages
 - `README.md`: Project documentation
-- `dataset/`: Contains training and test data
-  - `train.csv`: Training data
-  - `test.csv`: Test data for predictions
-  - `sample_submission.csv`: Sample submission format
-- `output/`: Generated output files
-  - `prediction_distribution.png`: Visualization of prediction distributions
-  - `submission.csv`: Final predictions for submission
 
 ## How to Run the Code
 1. Install the required packages:
